@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: default
 title: "about-test"
 permalink: /about
 ---
+
+this is the content of this page
